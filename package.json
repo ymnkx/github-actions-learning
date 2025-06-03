@@ -1,0 +1,23 @@
+{
+  "name": "github-actions-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymnkx/github-actions-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymnkx/github-actions-learning/issues"
+  },
+  "homepage": "https://github.com/ymnkx/github-actions-learning#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
