@@ -1,3 +1,3 @@
 # github-actions-learning
 
-![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![example workflow](https://github.com/ymnkx/github-actions-learning/actions/workflows/build-and-test.yml/badge.svg)
